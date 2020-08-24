@@ -1,5 +1,6 @@
-# Learn yt with these notebooks! 
-###### The notebooks included in this repository will help the user learn the basics of yt and how to use yt and ytree to analyze cosmological simulations.
+Learn yt with these notebooks! 
+
+The notebooks included in this repository will help the user learn the basics of yt and how to use yt and ytree to analyze cosmological simulations.
 
 Sources:
 - learn-yt.ipynb from Nathan Goldbaum
